@@ -1,0 +1,30 @@
+{
+  "id": "2733347",
+  "name": "investigation",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4422025",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "1447762",
+      "name": "调查问卷",
+      "font_class": "tiaochawenjuan",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "23451539",
+      "name": "调查问卷",
+      "font_class": "tiaochawenjuan-copy",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    }
+  ]
+}
